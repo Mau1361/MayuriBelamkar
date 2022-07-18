@@ -1,0 +1,14 @@
+1. Create an EC2 Instance   http://184.73.9.49/        
+
+2. Create snapshot and share with other account     Refer Pdf with the name SNAPSHOT
+
+3. Install nginx and apache server      http://52.91.196.235/      apache
+                                        http://52.91.196.235:82/   Nginx
+
+
+4. Install mysql,mongo,php nodejs on Instance       http://52.207.252.233/     nodejs with mongo
+
+                                                    http://44.204.127.117/     php with MySql
+
+
+5. Create a s3 bucket and set its policies           https://machinetest1361.s3.amazonaws.com/3.jpg   URL for s3--bucket--image(also refer pdf with name S3)
